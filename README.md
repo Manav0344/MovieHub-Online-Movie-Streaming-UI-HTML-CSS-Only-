@@ -21,4 +21,4 @@ Interactive FAQ section
 
 Email signup form layout
 
-🚀 Live Demo: (Add your GitHub Pages link here once published)
+🚀 Live Demo: https://manav0344.github.io/MovieHub-Online-Movie-Streaming-UI-HTML-CSS-Only-/
